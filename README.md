@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns ...
 -->
 
-- 🔭 I’m currently working on **JavaScript full stack**
-- ⚡ Fun fact: _I'll be dead one day!_
+- 🔭 I’m currently working on JavaScript full stack
+- ⚡ Fun fact: _I'll be dead one day! for one last time!_
