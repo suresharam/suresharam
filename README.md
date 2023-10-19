@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on JavaScript full stack
-- ⚡ Fun fact: _I'll be dead one day! for one last time!_
+- ⚡ Fun fact: _I'll be dead one day! and i'll die well!_
